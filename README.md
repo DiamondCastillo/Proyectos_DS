@@ -1,2 +1,2 @@
 # Proyectos_DS
-Desarrollos de proyectos de casos de problemáticas reales basados en modelos de machine learning.
+Desarrollos de proyectos basados en modelos de machine learning para resolver problemáticas reales en industrias. 
